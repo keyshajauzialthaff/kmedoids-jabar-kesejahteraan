@@ -54,7 +54,7 @@ Algoritma K-Medoids menghasilkan 4 kelompok (*cluster*) wilayah dengan karakteri
 
 ---
 
-## Teknologi & Library
+## Library
 
 Proyek ini dibuat menggunakan Python pada lingkungan Jupyter Notebook dengan library berikut:
 - `pandas` — Manipulasi dan analisis data
