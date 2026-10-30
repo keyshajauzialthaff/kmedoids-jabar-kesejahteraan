@@ -1,11 +1,6 @@
 # kmedoids-jabar-kesejahteraan
 
 # Pengelompokan Tingkat Kesejahteraan Kabupaten/Kota di Jawa Barat Menggunakan Metode K-Medoids
-
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)]()
-
 Repositori ini berisi kode Python dan dokumentasi untuk pengelompokan (clustering) 27 Kabupaten/Kota di Provinsi Jawa Barat berdasarkan indikator kesejahteraan masyarakat menggunakan metode **K-Medoids**. Penelitian ini bertujuan untuk mengidentifikasi pola ketimpangan wilayah sebagai bahan pertimbangan dalam penyusunan kebijakan pembangunan daerah.
 
 ---
